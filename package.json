@@ -60,12 +60,13 @@
     "vue-loader": "^15.7.0",
     "vue-styleguidist": "3.11.4",
     "vue-template-compiler": "^2.5.16",
-    "webpack": "^4.29.6"
+    "webpack": "^4.29.6",
+    "file-loader": "^3.0.1"
   },
   "publishConfig": {
     "access": "public"
   },
-  "vue-sfc-cli": "1.7.0",
+  "vue-sfc-cli": "1.10.0",
   "engines": {
     "node": ">= 4.0.0",
     "npm": ">= 3.0.0"
